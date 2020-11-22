@@ -1,0 +1,27 @@
+2020-11-21T23:39:43+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::get_variation_attributes() in /home/u117482040/domains/israeli-market.com/public_html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php:715
+Stack trace:
+#0 /home/u117482040/domains/israeli-market.com/public_html/wp-includes/class-wp-hook.php(287): WC_AJAX::add_variation('')
+#1 /home/u117482040/domains/israeli-market.com/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /home/u117482040/domains/israeli-market.com/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/u117482040/domains/israeli-market.com/public_html/wp-admin/admin-ajax.php(176): do_action('wp_ajax_woocomm...')
+#4 {main}
+  thrown in /home/u117482040/domains/israeli-market.com/public_html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 715
+
+2020-11-21T23:40:22+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::get_variation_attributes() in /home/u117482040/domains/israeli-market.com/public_html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php:715
+Stack trace:
+#0 /home/u117482040/domains/israeli-market.com/public_html/wp-includes/class-wp-hook.php(287): WC_AJAX::add_variation('')
+#1 /home/u117482040/domains/israeli-market.com/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /home/u117482040/domains/israeli-market.com/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/u117482040/domains/israeli-market.com/public_html/wp-admin/admin-ajax.php(176): do_action('wp_ajax_woocomm...')
+#4 {main}
+  thrown in /home/u117482040/domains/israeli-market.com/public_html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 715
+
+2020-11-21T23:57:27+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::get_variation_attributes() in /home/u117482040/domains/israeli-market.com/public_html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php:715
+Stack trace:
+#0 /home/u117482040/domains/israeli-market.com/public_html/wp-includes/class-wp-hook.php(287): WC_AJAX::add_variation('')
+#1 /home/u117482040/domains/israeli-market.com/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /home/u117482040/domains/israeli-market.com/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/u117482040/domains/israeli-market.com/public_html/wp-admin/admin-ajax.php(176): do_action('wp_ajax_woocomm...')
+#4 {main}
+  thrown in /home/u117482040/domains/israeli-market.com/public_html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 715
+

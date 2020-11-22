@@ -1,0 +1,31 @@
+#pelecard_payment_range table.wc_input_table td:nth-child(2) {
+	width: 70%;
+}
+#pelecard_payment_range table.wc_input_table td:nth-child(2) > div {
+	display: table;
+	direction: ltr;
+	width: 100%;
+}
+.price-container {
+	display: table-cell;
+	text-align: center;
+}
+table.wc_input_table .price-container input[type="number"] {
+	max-width:55px;
+	padding:0;
+}
+.payment-range-min {
+	text-align: right;
+}
+.payment-range-max {
+	text-align: right;
+}
+.currency-symbol {
+	text-align: right;
+	position: relative;
+	width: 5%;
+}
+#pelecard_payment_range .slider-container {
+	display: table-cell;
+	width: 70%;
+}

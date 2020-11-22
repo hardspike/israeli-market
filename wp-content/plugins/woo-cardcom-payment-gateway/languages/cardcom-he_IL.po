@@ -1,0 +1,217 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-11-01 12:09+0200\n"
+"PO-Revision-Date: 2020-11-01 12:10+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: he_IL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : n==2 ? 1 : n>10 && n%10==0 ? "
+"2 : 3);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__\n"
+"X-Poedit-SearchPath-0: cardcom.php\n"
+
+#: cardcom.php:54 cardcom.php:701
+msgid "CardCom"
+msgstr ""
+
+#: cardcom.php:343
+msgid "Postcode / ZIP"
+msgstr ""
+
+#: cardcom.php:477
+msgid "Coupon code"
+msgstr ""
+
+#: cardcom.php:540
+msgid "Title"
+msgstr "כותרת"
+
+#: cardcom.php:542
+msgid "The title which the user sees during the checkout."
+msgstr "כותרת"
+
+#: cardcom.php:543
+msgid "Cardcom"
+msgstr "קארדקום"
+
+#: cardcom.php:546
+msgid "Enable/Disable"
+msgstr "הפעל/כבה"
+
+#: cardcom.php:547
+msgid "Enable Cardcom"
+msgstr "מתג להפעלת התוסף קארדקום"
+
+#: cardcom.php:553
+msgid "Description"
+msgstr "תיאור"
+
+#: cardcom.php:555
+msgid "The description which the user sees during the checkout."
+msgstr "התיאור אשר היוזר יראה בדף ה-Checkout"
+
+#: cardcom.php:559 cardcom.php:560
+msgid "Operation"
+msgstr "פעולה"
+
+#: cardcom.php:563
+msgid "J2-Chack Only, J5-Create a Deposite "
+msgstr ""
+
+#: cardcom.php:567 cardcom.php:568
+msgid "PCI certification"
+msgstr ""
+
+#: cardcom.php:570
+msgid ""
+"Check this if your website is PCI compliant, and credit card numbers can be "
+"passed through your servers.<br />If you are not sure, keep this unchecked."
+msgstr ""
+
+#: cardcom.php:575
+msgid "Send By Email"
+msgstr "שלח במייל"
+
+#: cardcom.php:578
+msgid "Send Invoice via Email"
+msgstr "שלח חשבונית במייל"
+
+#: cardcom.php:582 cardcom.php:583
+msgid "Invoice"
+msgstr "חשבונית"
+
+#: cardcom.php:590
+msgid "Terminal Number"
+msgstr "מספר מסוף"
+
+#: cardcom.php:592
+msgid "the company Terminal Number"
+msgstr "מספר המסוף של החברה"
+
+#: cardcom.php:596 cardcom.php:597
+msgid "Must CVV"
+msgstr "חייב CVV"
+
+#: cardcom.php:604
+msgid "CVV free Terminal Number"
+msgstr ""
+
+#: cardcom.php:606
+msgid "CVV free Terminal"
+msgstr ""
+
+#: cardcom.php:610
+msgid "API User Name"
+msgstr "שם משתמש API"
+
+#: cardcom.php:612
+msgid "the company API User Name"
+msgstr ""
+
+#: cardcom.php:616
+msgid "Max Payment"
+msgstr "מקסימום תשלומים"
+
+#: cardcom.php:618
+msgid "Limit the amount of payments"
+msgstr "הגדר את כמות ההתשלומים המקסימאלי שמשתמש יכול לבחור."
+
+#: cardcom.php:622
+msgid "Currency"
+msgstr "מטבע"
+
+#: cardcom.php:624
+msgid "Currency: 0- Auto Detect,  1 - NIS , 2 - USD , else ISO Currency"
+msgstr ""
+
+#: cardcom.php:628 cardcom.php:630
+msgid "Lang"
+msgstr "שפה"
+
+#: cardcom.php:634 cardcom.php:636
+msgid "Admin Email"
+msgstr "אימייל אדמין"
+
+#: cardcom.php:640 cardcom.php:641
+msgid "Use Iframe"
+msgstr "השתמש ב-iframe"
+
+#: cardcom.php:648 cardcom.php:649
+msgid "invoice VAT free"
+msgstr ""
+
+#: cardcom.php:652
+msgid ""
+"For third option  \"Tax per product\" please see <a href=\"http://kb.cardcom."
+"co.il/article/AA-00359\">help</a>"
+msgstr ""
+
+#: cardcom.php:656 cardcom.php:657
+msgid "Order Status"
+msgstr "סטטוס הזמנה"
+
+#: cardcom.php:664 cardcom.php:666
+msgid "failed Url"
+msgstr "דף כישלון (URL)"
+
+#: cardcom.php:670 cardcom.php:672
+msgid "success Url"
+msgstr "דך הצלחה (URL)"
+
+#: cardcom.php:676 cardcom.php:677
+msgid "Invoice for Paypal"
+msgstr ""
+
+#: cardcom.php:679
+msgid "Activate invoice creation for Paypal"
+msgstr ""
+
+#: cardcom.php:684 cardcom.php:685
+msgid "Invoice for Paypal - Send to email"
+msgstr ""
+
+#: cardcom.php:687
+msgid "Send Paypal Invoice to Email"
+msgstr ""
+
+#: cardcom.php:1162
+msgid "IPN payment completed OK! Deal Number:"
+msgstr ""
+
+#: cardcom.php:1187
+msgid "IPN payment completed Not OK"
+msgstr ""
+
+#: cardcom.php:1376
+msgid "Security Digits (CVV)"
+msgstr "3 ספרות בגב הכרטיס"
+
+#: cardcom.php:1390
+msgid "Credit Card Number"
+msgstr "מספר כרטיס אשראי"
+
+#: cardcom.php:1398
+msgid "Expiration date"
+msgstr "תוקף כרטיס"
+
+#: cardcom.php:1405
+msgid "Month"
+msgstr "חודש"
+
+#: cardcom.php:1414
+msgid "Year"
+msgstr "שנה"
+
+#: cardcom.php:1439
+msgid "Number of Payments"
+msgstr "מספר תשלומים"
+
+#: cardcom.php:1538
+msgid "Token charge successfully completed! Deal Number:"
+msgstr ""

@@ -1,0 +1,583 @@
+# Translation of Plugins - Woo Pelecard Gateway - Stable (latest release) in Hebrew
+# This file is distributed under the same license as the Plugins - Woo Pelecard Gateway - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-03-28 23:01:36+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: he_IL\n"
+"Project-Id-Version: Plugins - Woo Pelecard Gateway - Stable (latest release)\n"
+
+#: woocommerce-pelecard-gateway.php:207
+msgid "Settings"
+msgstr "הגדרות"
+
+#: woocommerce-pelecard-gateway.php:207
+msgid "View Pelecard settings"
+msgstr "הצגת הגדרות של פלאקארד"
+
+#: woocommerce-pelecard-gateway.php:148
+msgid "Your server is running PHP version %1$s but some features requires at least %2$s."
+msgstr "השרת שלך מריץ גרסת PHP %1$s, אך תכונות מסוימות דורשות לפחות %2$s."
+
+#: woocommerce-pelecard-gateway.php:137
+msgid "This plugin requires <a href=\"https://wordpress.org/plugins/woocommerce/\">WooCommerce</a> to be active."
+msgstr "תוסף זה מחייב <a href=\"https://wordpress.org/plugins/woocommerce/\">ווקומרס</a> פעיל."
+
+#: woocommerce-pelecard-gateway.php:40 woocommerce-pelecard-gateway.php:51
+msgid "Cheatin&#8217; huh?"
+msgstr "מרמה&#8217; אה?"
+
+#: templates/checkout/number-of-payments.php:16
+msgid "%s (Credit)"
+msgstr "%s (קרדיט)"
+
+#: templates/checkout/number-of-payments.php:12
+#: templates/checkout/number-of-payments.php:14
+msgid "Select number of payments"
+msgstr "בחרו מספר תשלומים"
+
+#: includes/settings-pelecard.php:307
+msgid "Card Number"
+msgstr "מספר כרטיס"
+
+#: includes/settings-pelecard.php:306
+msgid "Default (none)"
+msgstr "ברירת מחדל (ללא)"
+
+#: includes/settings-pelecard.php:300
+msgid "Focus on field"
+msgstr "פוקוס על שדה"
+
+#: includes/settings-pelecard.php:69
+msgid "Usually A second terminal is required to perform actions such as tokenizations, refunds, etc."
+msgstr "בדרך כלל נדרש מסוף שני לביצוע פעולות כגון טוקניזציה, החזרים וכו'."
+
+#: includes/settings-pelecard.php:67
+msgid "Hook Terminal"
+msgstr "מסוף מקושר"
+
+#: includes/class-wc-pelecard-gateway.php:842
+msgid "Add card"
+msgstr "הוספת כרטיס"
+
+#: includes/class-wc-pelecard-gateway.php:652
+msgid "Payment method added."
+msgstr "נוספה אפשרות תשלום."
+
+#: includes/class-wc-pelecard-gateway.php:648
+msgid "There was a problem adding this card."
+msgstr "אירעה שגיאה בהוספת כרטיס זה."
+
+#: includes/class-wc-pelecard-gateway.php:639
+msgid "Please use the payment button inside the form."
+msgstr "נא להשתמש בכפתור התשלום שבתוך הטופס."
+
+#: includes/class-wc-pelecard-gateway.php:562
+msgid "Pelecard error: %s"
+msgstr "שגיאת פלאקארד: %s"
+
+#: includes/class-wc-pelecard-gateway.php:421
+msgid "Please select number of payments."
+msgstr "נא לבחור מספר תשלומים."
+
+#: includes/class-wc-pelecard-gateway.php:397
+msgid "Please make sure your card details have been entered correctly and that your browser supports JavaScript."
+msgstr "יש לוודא כי פרטי כרטיס האשראי תקינים וכי הדפדפן תומך ב-JavaScript."
+
+#: includes/class-wc-pelecard-gateway.php:210
+msgid "Leumi Card"
+msgstr "לאומי קארד"
+
+#: includes/class-wc-pelecard-gateway.php:209
+msgid "Isracard"
+msgstr "ישראכרט"
+
+#: includes/class-wc-pelecard-gateway.php:208
+msgid "Maestro"
+msgstr "מאסטרו"
+
+#: includes/class-wc-pelecard-gateway.php:192
+msgid "Pay for order"
+msgstr "שלם עבור ההזמנה"
+
+#. translators: %s$1: tamal invoice link, %s$2: link text
+#: templates/order/admin-order-transaction.php:69
+msgid "Download Document"
+msgstr "הורדת מסמך"
+
+#: templates/order/admin-order-transaction.php:35
+msgid "Value"
+msgstr "ערך"
+
+#: templates/order/admin-order-transaction.php:34
+msgid "Parameter"
+msgstr "פרמטר"
+
+#: templates/order/admin-order-transaction.php:20
+#: templates/order/admin-order-transaction.php:22
+msgid "Transaction ID"
+msgstr "מספר טרנזקציה"
+
+#: includes/class-wc-pelecard-metabox.php:61
+msgid "Pelecard Transaction Data"
+msgstr "פרטי טרנזקציית פלאקארד"
+
+#: includes/class-wc-pelecard-gateway.php:904
+msgid "Remove row(s)"
+msgstr "מחיקת שורה/ות"
+
+#: includes/class-wc-pelecard-gateway.php:903
+msgid "+ Add Row"
+msgstr "הוספת שורה"
+
+#: includes/class-wc-pelecard-gateway.php:873
+msgid "Maximum"
+msgstr "מקסימום"
+
+#: includes/class-wc-pelecard-gateway.php:872
+msgid "Minimum"
+msgstr "מינימום"
+
+#: includes/class-wc-pelecard-gateway.php:871
+msgid "Total Cart"
+msgstr "סה\"כ סל-קניות"
+
+#: includes/class-wc-pelecard-gateway.php:865
+msgid "Custom Payments"
+msgstr "תשלומים מותאמים"
+
+#: includes/settings-pelecard.php:420
+msgid "Document Remark"
+msgstr "הערות מסמך"
+
+#: includes/settings-pelecard.php:403
+msgid "Heshbon Iska"
+msgstr "חשבון עסקה"
+
+#: includes/settings-pelecard.php:402
+msgid "Hazaat Mehir"
+msgstr "הצעת מחיר"
+
+#: includes/settings-pelecard.php:401
+msgid "Kabala Al Trumot"
+msgstr "קבלה על תרומות"
+
+#: includes/settings-pelecard.php:400
+msgid "Kabala"
+msgstr "קבלה"
+
+#: includes/settings-pelecard.php:399
+msgid "Heshbonit Mas Zikui"
+msgstr "חשבונית מס-זיכוי"
+
+#: includes/settings-pelecard.php:398
+msgid "Heshbonit Mas Kabala"
+msgstr "חשבונית מס-קבלה"
+
+#: includes/settings-pelecard.php:397
+msgid "Heshbonit Mas"
+msgstr "חשבונית מס"
+
+#: includes/settings-pelecard.php:396
+msgid "Heshbonit Iska"
+msgstr "חשבונית עסקה"
+
+#: includes/settings-pelecard.php:395
+msgid "Hazmana"
+msgstr "הזמנה"
+
+#: includes/settings-pelecard.php:388
+msgid "Document Type"
+msgstr "סוג מסמך"
+
+#: includes/settings-pelecard.php:384
+msgid "Amuta"
+msgstr "עמותה"
+
+#: includes/settings-pelecard.php:383
+msgid "Osek Patur"
+msgstr "עוסק פטור"
+
+#: includes/settings-pelecard.php:382
+msgid "Osek Mursh"
+msgstr "עוסק מורשה"
+
+#: includes/settings-pelecard.php:375
+msgid "Osek Type"
+msgstr "סוג העוסק"
+
+#: includes/settings-pelecard.php:368
+msgid "Esek number"
+msgstr "מספר עסק"
+
+#: includes/class-wc-pelecard-gateway.php:615
+msgid "Order #%s"
+msgstr "הזמנה #%s"
+
+#: includes/settings-pelecard.php:327
+msgid "If not specified default pelecard CSS will be used."
+msgstr "אם לא צוין ישתמש ב-CSS ברירת מחדל של פלאקארד."
+
+#: includes/settings-pelecard.php:326
+msgid "CSS file link for custom design implementation."
+msgstr "קישור לקובץ CSS להטמעת עיצוב בהתאמה אישית."
+
+#: includes/settings-pelecard.php:264
+msgid "If the field is empty Confirmation link will not be displayed."
+msgstr "אם שדה זה ריק - לא יוצג הקישור."
+
+#: includes/settings-pelecard.php:263
+msgid "HyperLink address of Confirmation Text."
+msgstr "כתובת הקישור לשדה מלל אישור."
+
+#: includes/settings-pelecard.php:254
+msgid "If Confirmation Link value is entered, this field will turn into a HyperLink to the same address."
+msgstr "בהזנת כתובת לשדה קישור אישור, הערך בשדה זה יהפוך לקישור לאותה כתובת."
+
+#: includes/settings-pelecard.php:253
+msgid "Free text presented to the customer when set to confirm the payment."
+msgstr "מלל חופשי שיוצג ללקוח כאשר הוגדר שחייב לאשר את ביצוע התשלום."
+
+#: includes/settings-pelecard.php:122
+msgid "If you want to avoid credit transactions, you must enter a value larger than the maximum number of payments."
+msgstr "אם רוצים למנוע עסקאות קרדיט יש להזין ערך גדול מהערך במספר תשלומים מקסימלי."
+
+#: includes/settings-pelecard.php:121
+msgid "Determined in accordance to the agreement with the credit card company."
+msgstr "נקבע בהתאם להסכם עם חברת האשראי."
+
+#: includes/settings-pelecard.php:120
+msgid "The number represents the amount of the minimum payment required to define a credit transaction."
+msgstr "המספר מייצג את כמות התשלומים המינימלית הנדרשת להגדרת העסקה כעסקת קרדיט."
+
+#: includes/settings-pelecard.php:111
+msgid "If the number of minimum and maximum payments are the same and are greater than 1, you must also enter minimum payments for credit."
+msgstr "אם מספר התשלומים המינימלי והמקסימלי זהים וגדולים מ-1, יש להזין גם מספר תשלום מינימלי לעסקת קרדיט."
+
+#: includes/settings-pelecard.php:110
+msgid "If the number of minimum and maximum payments are 1 - field will not be displayed."
+msgstr "אם מספר התשלומים המינימלי והמקסימלי הם 1 - לא יוצג השדה."
+
+#: includes/settings-pelecard.php:407
+msgid "Document Language"
+msgstr "שפת מסמך"
+
+#: includes/settings-pelecard.php:346
+msgid "Enable Tamal"
+msgstr "הפעלת ט.מ.ל"
+
+#: includes/settings-pelecard.php:345
+msgid "Create Invoice \\ Receipt"
+msgstr "יצירת חשבונית מס/קבלה"
+
+#: includes/settings-pelecard.php:334
+msgid "Pelecard Logo"
+msgstr "לוגו פלאקארד"
+
+#: includes/settings-pelecard.php:222
+msgid "Cancel the order and redirect the buyer back to basket"
+msgstr "ביטול ההזמנה והפניית הגולש לסל-הקניות"
+
+#: includes/settings-pelecard.php:220
+msgid "Cancel Button"
+msgstr "כפתור ביטול"
+
+#: includes/class-wc-pelecard-gateway.php:358
+#: templates/order/admin-order-transaction.php:62
+msgid "Tamal"
+msgstr "ט.מ.ל"
+
+#: includes/class-wc-pelecard-gateway.php:356
+msgid "Confirmation"
+msgstr "אישור תשלום"
+
+#: includes/class-wc-pelecard-gateway.php:355
+msgid "Fields"
+msgstr "שדות"
+
+#: includes/class-wc-pelecard-gateway.php:354
+msgid "Payment"
+msgstr "תשלום"
+
+#: includes/class-wc-pelecard-gateway.php:352
+msgid "General"
+msgstr "הגדרות"
+
+#. Author URI of the plugin/theme
+msgid "https://profiles.wordpress.org/idofri/"
+msgstr "https://profiles.wordpress.org/idofri/"
+
+#. Author of the plugin/theme
+msgid "Ido Friedlander"
+msgstr "עידו פרידלנדר"
+
+#. Description of the plugin/theme
+msgid "Extends WooCommerce with Pelecard payment gateway."
+msgstr "הרחבת אפשרויות הסליקה של ווקומרס עם תשלום באמצעות פלאקארד."
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/woo-pelecard-gateway/"
+msgstr "https://he.wordpress.org/plugins/woo-pelecard-gateway/"
+
+#. #-#-#-#-#  woo-pelecard-gateway-code.pot (Woo Pelecard Gateway 1.2.2) 
+#. #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: woocommerce-pelecard-gateway.php:179
+msgid "Woo Pelecard Gateway"
+msgstr "סליקת פלאקארד בווקומרס"
+
+#: includes/settings-pelecard.php:336
+msgid "Display / hide pelecard logo."
+msgstr "הצג/הסתר לוגו פלאקארד."
+
+#: includes/settings-pelecard.php:323
+msgid "Css URL"
+msgstr "קישור לקובץ CSS"
+
+#: includes/settings-pelecard.php:316
+msgid "Link to customers logo file."
+msgstr "קישור לקובץ לוגו של הלקוח."
+
+#: includes/settings-pelecard.php:313
+msgid "Logo URL"
+msgstr "קישור ללוגו"
+
+#: includes/settings-pelecard.php:296
+msgid "Visa"
+msgstr "ויזה"
+
+#: includes/settings-pelecard.php:295
+msgid "Master"
+msgstr "מאסטרקארד"
+
+#: includes/settings-pelecard.php:294
+msgid "Isra"
+msgstr "ישראכרט"
+
+#: includes/settings-pelecard.php:293
+msgid "Diners"
+msgstr "דיינרס"
+
+#: includes/settings-pelecard.php:292
+msgid "Amex"
+msgstr "אמריקן אקספרס"
+
+#: includes/settings-pelecard.php:289
+msgid "Display logos of the cards supported by the system."
+msgstr "תצוגת לוגואים של הכרטיסים הנתמכים במערכת."
+
+#: includes/settings-pelecard.php:286
+msgid "Supported Cards"
+msgstr "כרטיסים נתמכים"
+
+#: includes/settings-pelecard.php:279
+msgid "Bottom Text"
+msgstr "כותרת תחתונה"
+
+#: includes/settings-pelecard.php:271
+msgid "Top Text"
+msgstr "כותרת עליונה"
+
+#: includes/class-wc-pelecard-gateway.php:357
+msgid "Appearance"
+msgstr "עיצוב"
+
+#: includes/settings-pelecard.php:260
+msgid "Confirmation Link"
+msgstr "קישור אישור"
+
+#: includes/settings-pelecard.php:251
+msgid "Confirmation Text"
+msgstr "מלל אישור"
+
+#: includes/settings-pelecard.php:246
+msgid "Checked"
+msgstr "מסומן"
+
+#: includes/settings-pelecard.php:237
+msgid "Confirmation CheckBox"
+msgstr "שדה אישור"
+
+#: includes/settings-pelecard.php:213
+msgid "Card field is divided into 4 groups of 4 numbers."
+msgstr "שדה הכרטיס מחולק ל-4 קבוצות של 4 מספרים."
+
+#: includes/settings-pelecard.php:211
+msgid "Split CC Number"
+msgstr "פיצול מספר כרטיס"
+
+#: includes/settings-pelecard.php:196
+msgid "Tel Field"
+msgstr "שדה טלפון"
+
+#: includes/settings-pelecard.php:192 includes/settings-pelecard.php:206
+msgid "Required with value"
+msgstr "חובה + ערך"
+
+#: includes/settings-pelecard.php:182
+msgid "Email Field"
+msgstr "שדה דוא\"ל"
+
+#: includes/settings-pelecard.php:169
+msgid "Cvv2 Field"
+msgstr "קוד אימות כרטיס"
+
+#: includes/settings-pelecard.php:156
+msgid "Customer Id Field"
+msgstr "ת.ז בעל הכרטיס"
+
+#: includes/settings-pelecard.php:152 includes/settings-pelecard.php:165
+#: includes/settings-pelecard.php:178 includes/settings-pelecard.php:191
+#: includes/settings-pelecard.php:205
+msgid "Optional"
+msgstr "לא חובה"
+
+#: includes/settings-pelecard.php:151 includes/settings-pelecard.php:164
+#: includes/settings-pelecard.php:177 includes/settings-pelecard.php:190
+#: includes/settings-pelecard.php:204
+msgid "Required"
+msgstr "חובה"
+
+#: includes/settings-pelecard.php:150 includes/settings-pelecard.php:163
+#: includes/settings-pelecard.php:176 includes/settings-pelecard.php:189
+#: includes/settings-pelecard.php:203 includes/settings-pelecard.php:244
+msgid "Disabled"
+msgstr "לא פעיל"
+
+#: includes/settings-pelecard.php:143 includes/settings-pelecard.php:308
+msgid "Card Holder Name"
+msgstr "שם בעל הכרטיס"
+
+#: includes/settings-pelecard.php:214 includes/settings-pelecard.php:223
+#: includes/settings-pelecard.php:232 includes/settings-pelecard.php:245
+#: includes/settings-pelecard.php:265 includes/settings-pelecard.php:317
+#: includes/settings-pelecard.php:328 includes/settings-pelecard.php:337
+msgid "Enabled"
+msgstr "פעיל"
+
+#: includes/settings-pelecard.php:231
+msgid "Editable field will be displayed next to the original amount field, and the customer can add the desired amount."
+msgstr "שדה פתוח לעריכה יוצג לצד שדה הסכום המקורי, והלקוח יוכל להוסיף את הסכום הרצוי לו."
+
+#: includes/settings-pelecard.php:229
+msgid "Free Total"
+msgstr "שדה סכום פתוח לעריכה"
+
+#: includes/settings-pelecard.php:136
+msgid "Manual"
+msgstr "שדה פתוח לעריכת הקונה"
+
+#: includes/settings-pelecard.php:135
+msgid "Auto"
+msgstr "מחושב אוטומטית"
+
+#: includes/settings-pelecard.php:131
+msgid "The initial amount should be less than the amount of the transaction."
+msgstr "הסכום הראשוני חייב להיות קטן מסכום העסקה."
+
+#: includes/settings-pelecard.php:128
+msgid "First Payment"
+msgstr "תשלום ראשון"
+
+#: includes/settings-pelecard.php:118
+msgid "Min Payments For Credit"
+msgstr "תשלום מינימלי בקרדיט"
+
+#: includes/settings-pelecard.php:108
+msgid "Min Payments"
+msgstr "כמות תשלומים מינימלית"
+
+#: includes/settings-pelecard.php:99
+msgid "Max Payments"
+msgstr "כמות תשלומים מרבית"
+
+#: includes/settings-pelecard.php:59 includes/settings-pelecard.php:91
+#: includes/settings-pelecard.php:360
+msgid "Password"
+msgstr "סיסמה"
+
+#: includes/settings-pelecard.php:51 includes/settings-pelecard.php:83
+#: includes/settings-pelecard.php:352
+msgid "Username"
+msgstr "שם משתמש"
+
+#: includes/class-wc-pelecard-gateway.php:353 includes/settings-pelecard.php:43
+#: includes/settings-pelecard.php:75
+msgid "Terminal"
+msgstr "מסוף"
+
+#: includes/settings-pelecard.php:38
+msgid "Pay with Pelecard"
+msgstr "תשלום באמצעות פלאקארד"
+
+#: includes/settings-pelecard.php:37
+msgid "Payment method description that the customer will see on your checkout."
+msgstr "תיאור שיטת התשלום שהלקוח יראה בתהליך התשלום."
+
+#: includes/settings-pelecard.php:35
+msgid "Description"
+msgstr "תיאור"
+
+#: includes/settings-pelecard.php:30
+msgid "Pelecard Payment"
+msgstr "תשלום באמצעות פלאקארד"
+
+#: includes/settings-pelecard.php:29
+msgid "This controls the title which the user sees during checkout."
+msgstr "כאן ניתן לשלוט על הכותרת המוצגת ללקוח במהלך שלב הקופה."
+
+#: includes/settings-pelecard.php:27
+msgid "Title"
+msgstr "כותרת"
+
+#: includes/settings-pelecard.php:22
+msgid "Russian"
+msgstr "רוסית"
+
+#: includes/settings-pelecard.php:21 includes/settings-pelecard.php:415
+msgid "English"
+msgstr "אנגלית"
+
+#: includes/settings-pelecard.php:20 includes/settings-pelecard.php:414
+msgid "Hebrew"
+msgstr "עברית"
+
+#: includes/settings-pelecard.php:13
+msgid "IFrame Language"
+msgstr "שפה"
+
+#: includes/settings-pelecard.php:9
+msgid "Enable Pelecard"
+msgstr "אפשר תשלום באמצעות פלאקארד"
+
+#: includes/settings-pelecard.php:7 includes/settings-pelecard.php:343
+msgid "Enable/Disable"
+msgstr "הפעל / בטל"
+
+#. translators: %s: pelecard url.
+#: includes/class-wc-pelecard-gateway.php:332
+msgid "<a href=\"%s\" target=\"_blank\">Pelecard</a> provides clearing solutions for over 20 years, and gives a solution for secure and advanced enterprises both large and small, including websites."
+msgstr "<a href=\"%s\" target=\"_blank\">פלאקארד</a> מספקת פתרונות סליקה מעל 20 שנה, ונותנת מענה מאובטח ומתקדם לארגונים גדולים וקטנים כאחד, כולל אתרי אינטרנט."
+
+#: woocommerce-pelecard-gateway.php:154
+msgid "No support for your store currency."
+msgstr "אין תמיכה למטבע שלך."
+
+#. translators: %s: status code.
+#: includes/class-wc-pelecard-gateway.php:684
+#: includes/class-wc-pelecard-gateway.php:690
+msgid "Transaction Failed: %s"
+msgstr "העסקה נכשלה: %s"
+
+#: includes/class-wc-pelecard-gateway.php:38
+#: includes/class-wc-pelecard-gateway.php:333
+msgid "Pelecard"
+msgstr "פלאקארד"
+
+#: includes/class-wc-pelecard-gateway.php:37
+msgid "Proceed to Pelecard"
+msgstr "המשך לתשלום באמצעות פלאקארד"
