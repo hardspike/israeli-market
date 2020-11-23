@@ -60,8 +60,8 @@ if ($product->is_type('variable')) {
 		echo "<div class='varRadios'>";
 		foreach ($pVars as $pv) {
 			echo "<label><input type='radio' name='productVariation' data-vartype='{$pv['varName']}' data-varprice='{$pv['varPrice']}' data-varid='{$pv['varId']}'";
-			echo (isset($initialVar) && $initialVar == $pv['varId']) ? " checked " : "";
-			echo "> {$pv['varName']}</label>";
+			echo (isset($initialVar) && $initialVar == $pv['varId']) ? " checked='checked'> " : ">";
+			echo " {$pv['varName']}</label>";
 		}
 		echo "</div>";
 	} else {
